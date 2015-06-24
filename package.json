@@ -1,0 +1,35 @@
+{
+  "name": "node-geo-events",
+  "version": "0.1.0",
+  "description": "A node.js module that simplifies the creation, management and broadcasting of real-time geographic events.",
+  "main": "index.js",
+  "dependencies": {
+    "chai": "^3.0.0",
+    "express": "^4.13.0",
+    "socket.io": "^1.3.5"
+  },
+  "devDependencies": {
+    "chai": "^3.0.0",
+    "express": "^4.13.0",
+    "mocha": "^2.2.5"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marakame/node-geo-events.git"
+  },
+  "keywords": [
+    "geo",
+    "events",
+    "real",
+    "time"
+  ],
+  "author": "Daniel Sánchez Pillot Gutiérrez <dspillotg@gmail.com>",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/marakame/node-geo-events/issues"
+  },
+  "homepage": "https://github.com/marakame/node-geo-events#readme"
+}
